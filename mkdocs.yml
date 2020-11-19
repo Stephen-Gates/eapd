@@ -1,0 +1,116 @@
+# Project information
+
+site_name: EA Pitch Deck
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Stephen Gates
+site_description: >-
+  Enterprise Architecture Pitch Deck are cards you can use for work or play. Design and test your perfect pitch based on LeanIX Enterprise Architecture Suite reports. Play the game racing to earn kudos by using your pitch deck to help the Executive solve a challenge.
+  
+# Configuration
+theme:
+  name: material  
+  logo: assets/images/logo.png
+  favicon: assets/favicon.png  
+  custom_dir: overrides 
+  language: en-custom
+  features:
+  - search.highlight
+  font:
+    text: Raleway
+    code: Roboto Mono  
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: octicons/sun-16
+      name: Switch to light mode
+  - scheme: slate
+    primary: blue
+    accent: blue
+    toggle:
+      icon: octicons/moon-16
+      name: Switch to dark mode
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/sgateshq
+    - icon: fontawesome/brands/github
+      link: https://github.com/Stephen-Gates/eapd
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by-nc/4.0/
+
+# CSS overrides for color 
+extra_css:
+  - stylesheets/extra.css
+  
+# Copyright
+copyright: Copyright &copy; 2020 Stephen Gates 
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Page tree - only 2 levels allowed
+nav:
+  - Get Started: rules/index.md
+  - Work: rules/work.md
+  - Play: 
+    - Play: rules/play.md
+    - Card types: rules/card-types.md
+    - Set up: rules/setup.md
+    - Take turns: rules/turns.md
+    - Pitch: rules/pitch.md
+    - Earn kudos: rules/kudos.md
+  - Role cards:
+    - Application Architect: roles/application-architect.md
+    - Business Architect: roles/business-architect.md
+    - Data Architect: roles/data-architect.md
+    - Process Architect: roles/process-architect.md
+    - Technical Architect: roles/technical-architect.md
+    - Chief Executive Officer: roles/ceo.md
+    - Chief Financial Officer: roles/cfo.md    
+    - Chief Information Officer: roles/cio.md
+    - Chief Operating Officer: roles/coo.md
+    - Chief Risk Officer: roles/cro.md
+  - Challenge cards:
+    - Application rationalisation: challenge/application-rationalisation.md
+    - Business transformation: challenge/business-transformation.md
+    - Data governance: challenge/data-governance.md
+    - Integration architecture: challenge/integration-architecture.md
+    - Merger planning: challenge/merger-planning.md
+    - Portfolio management: challenge/portfolio-management.md
+    - Standards management: challenge/standards-management.md
+    - Target Architecture: challenge/target-architecture.md
+    - Technology risk management: challenge/risk-management.md
+  - Report cards:
+    - Inventory report: report/new-report.md    
+    - Factsheet map: report/new-report.md
+    - Landscape report: report/landscape.md
+    - Matrix report: report/new-report.md    
+    - Cost report: report/new-report.md
+    - Interface Circle map: report/new-report.md
+    - Data Flow diagram: report/new-report.md
+    - Portfolio report: report/new-report.md
+    - World Map: report/new-report.md
+    - Metrics report: report/new-report.md
+    - Roadmap report: report/new-report.md
+    - New report: report/new-report.md
+#  - Event cards:
+#    - BTM module: index.md
+  - Kudos cards:
+    - Trusted Advisor: kudos/trusted-advisor.md
+    - Over promise, Under deliver: kudos/over-promise.md 
+  - Pitch cards:
+    - Situation: pitch/situation.md
+    - Challenge: pitch/challenge.md
+    - Recommendation: pitch/recommendation.md
+    - Call to Action: pitch/call-to-action.md
+  - About: 
+    - Contact us: about/index.md
+    - Origin story: about/origin.md
