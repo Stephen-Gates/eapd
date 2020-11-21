@@ -9,8 +9,8 @@ site_description: >-
 # Configuration
 theme:
   name: material  
-  logo: assets/images/logo.png
-  favicon: assets/favicon.png  
+  logo: assets/images/eapd-logo.png
+  favicon: assets/images/eapd-logo.png  
   custom_dir: overrides 
   language: en-custom
   features:
@@ -20,14 +20,14 @@ theme:
     code: Roboto Mono  
   palette:
   - scheme: default
-    primary: indigo
-    accent: indigo
+    primary: purple
+    accent: purple
     toggle:
       icon: octicons/sun-16
       name: Switch to light mode
   - scheme: slate
-    primary: blue
-    accent: blue
+    primary: purple
+    accent: purple
     toggle:
       icon: octicons/moon-16
       name: Switch to dark mode

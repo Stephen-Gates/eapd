@@ -2,7 +2,7 @@
 
 Players take turns until a player decides to pitch. 
 
-:fontawesome-solid-map-marker-alt:{: .situation } > :fontawesome-solid-exclamation-triangle:{: .challenge } > :fontawesome-solid-chart-bar:{: .leanix } > :fontawesome-solid-calendar-times:{: .event  } > :fontawesome-solid-chart-bar:{: .leanix } > :fontawesome-solid-chart-bar:{: .leanix }  > :fontawesome-solid-lightbulb:{: .recommendation } > :fontawesome-solid-bullhorn:{: .call-to-action } > :fontawesome-solid-users: > :fontawesome-solid-fire-alt:{: .grill } > :fontawesome-solid-star:{: .kudos }
+:fontawesome-solid-map-marker-alt:{: .situation } > :fontawesome-solid-exclamation-triangle:{: .challenge } > :fontawesome-solid-chart-bar:{: .leanix } > :fontawesome-solid-calendar-times:{: .event  } > :fontawesome-solid-chart-bar:{: .leanix } > :fontawesome-solid-chart-bar:{: .leanix }  > :fontawesome-solid-lightbulb:{: .recommendation } > :fontawesome-solid-bullhorn:{: .call-to-action } > :fontawesome-solid-users: > :fontawesome-solid-fire-alt:{: .grilling } > :fontawesome-solid-star:{: .kudos }
 
 ## Turn options
 

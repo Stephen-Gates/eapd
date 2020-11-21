@@ -10,7 +10,7 @@ Card image
 
 ```
 
-## Role cards :fontawesome-solid-user: 
+## Role cards :fontawesome-solid-users:{: .role } 
 
 Each player is given a role card. This represents your character in the game. For most of the game you are an Enterprise Architect. You have a special power based on the knowledge you've acquired over your career. 
 
@@ -23,17 +23,6 @@ Card image front and back
 
 ```
 
-## Pitch cards 
-
-Add pitch cards to your Pitch Deck to start and end your presentation.
-
-:fontawesome-solid-map-marker-alt:{: .situation }  :fontawesome-solid-lightbulb:{: .recommendation } :fontawesome-solid-bullhorn:{: .call-to-action }
-
-```
-
-Images of Situation, Challenge, Recommendation, Call-to-Action cards
-
-```
 
 ## Challenge cards :fontawesome-solid-exclamation-triangle:{: .challenge }
 
@@ -78,6 +67,23 @@ Card image front and back - Trusted Advisor on one side, Over-promise Under-deli
 
 ```
 
-## About us card
+
+## Pitch cards 
+
+:fontawesome-solid-map-marker-alt:{: .situation }  :fontawesome-solid-exclamation-triangle:{: .challenge }  :fontawesome-solid-lightbulb:{: .recommendation }  :fontawesome-solid-bullhorn:{: .call-to-action }
+
+Add pitch cards to start and end of your Pitch Deck when you're:
+
+- creating a deck for [work](work.md)
+- getting ready to [pitch](pitch.md) to the Executive during [play](play.md)
+
+
+```
+
+Images of Situation, Challenge, Recommendation, Call-to-Action cards
+
+```
+
+## The About card
 
 Learn our [origin story](about/), contact us or reuse and adapt these cards using a Creative Commons licence.

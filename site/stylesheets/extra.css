@@ -1,3 +1,24 @@
+/* https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ */
+
+[data-md-color-scheme="leanix"] {
+  --md-primary-fg-color:        #166BFF;
+  --md-primary-fg-color--light: #509FFF;
+  --md-primary-fg-color--dark:  #033AAA;
+}
+/* need to adjust colours to dark mode */
+[data-md-color-scheme="leanix-dark"] {
+  --md-primary-fg-color:        #166BFF;
+  --md-primary-fg-color--light: #509FFF;
+  --md-primary-fg-color--dark:  #033AAA;
+}
+
+/* Avoid page-break inside specific html elements: */
+
+@media print {
+  p, blockquote, ul, ol {page-break-before: avoid;}
+}
+
+/* https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#using-icons */
 
 .twitter {
   color: #1DA1F2;
@@ -11,21 +32,26 @@
   color: #166bff;
 }
 
+.role {
+  color: #666666;
+}
+
+
 .situation {
   color: #33cc58;
 }
 
 .challenge {
-  color: #ffb62a;
+ color: #ff914d; 
 }
-
 
 .recommendation {
   color: #ffb62a;
 }
 
 .call-to-action {
-  color: #9755cd;
+/*  color: #9755cd; */
+  color: #AB47BC;
 }
 
 .power {
@@ -33,10 +59,14 @@
   }
   
 .kudos {
-  color: #ffb62a;
+  color: #fad71e;
 }
 
-.grill {
+.grilling {
+  color: #f96464;
+}
+
+.over-promise {
   color: #f96464;
 }
 
@@ -44,7 +74,8 @@
   color: #f96464;
 }
 
-
+/* LeanIX factsheet colours https://docs.leanix.net/docs/configure-name-and-definition-of-a-factsheet */
+/*
 .ug {
   color: #fff;
   background-color: #509fff;
@@ -125,3 +156,4 @@
   padding: 2px;
   font-weight: bold;
 }
+*/
