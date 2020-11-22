@@ -66,9 +66,9 @@ Thanks to everyone who helped create the Enterprise Architecture Pitch Deck.
 
 Special thanks to those who influenced the game design: 
 
-- Susan Gates — for making up the numbers, despite not really wanting to play
-- Calum Gates — for introducing me to new games and patiently explaining the rules
-- Sophie Gates — for listening to my ideas and her diplomatic suggestions 
-- Charlotte Gates — for injecting her fun personality into the few game graced by her presence 
+- Susan — for making up the numbers, despite not really wanting to play
+- Calum — for introducing me to new games and patiently explaining the rules
+- Sophie — for patiently listening to my ideas and her diplomatic suggestions 
+- Charlotte — for injecting her fun personality into the few games graced by her presence 
 
 ~000~
