@@ -15,8 +15,7 @@ Arrange the **Enterprise Architecture Pitch Deck** cards to design your perfect 
 
 1. Finish your pitch with a concise :fontawesome-solid-bullhorn:{: .call-to-action } **Call to Action** stating what needs to be done to solve the challenge. 
 
-Read the tips on the back of the [Pitch cards](card-types.md#pitch-cards) to help refine your pitch.
-
+Read the tips on the back of the [Pitch cards](../pitch/situation.md) to help refine your pitch.
 
 ## Test with others
 
@@ -26,6 +25,8 @@ While designing your pitch, test on people with different levels of understandin
 - have made leaps in your logic that may need to be filled in
 - need to find simpler ways to explain a card in your deck
 
+
+---
 
 ## Practice delivery
 
@@ -49,3 +50,5 @@ While designing your pitch, test on people with different levels of understandin
 ## Reflect 
 
 Hints
+
+~002~

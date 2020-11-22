@@ -52,13 +52,15 @@ copyright: Copyright &copy; 2020 Stephen Gates
 markdown_extensions:
   - attr_list
   - footnotes
+  - pymdownx.caret
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # Page tree - only 2 levels allowed
 nav:
-  - Get Started: rules/index.md
+  - Home: index.md
   - Work: rules/work.md
   - Play: 
     - Play: rules/play.md
@@ -67,7 +69,9 @@ nav:
     - Take turns: rules/turns.md
     - Pitch: rules/pitch.md
     - Earn kudos: rules/kudos.md
+#    - Rule variations: rules/variations.md
   - Role cards:
+    - Role cards: roles/index.md
     - Application Architect: roles/application-architect.md
     - Business Architect: roles/business-architect.md
     - Data Architect: roles/data-architect.md
@@ -87,10 +91,10 @@ nav:
     - Portfolio management: challenge/portfolio-management.md
     - Standards management: challenge/standards-management.md
     - Target Architecture: challenge/target-architecture.md
-    - Technology risk management: challenge/risk-management.md
+    - Risk management: challenge/risk-management.md
   - Report cards:
-    - Inventory report: report/new-report.md    
-    - Factsheet map: report/new-report.md
+    - Inventory report: report/inventory.md    
+    - Factsheet map: report/factsheet-map.md
     - Landscape report: report/landscape.md
     - Matrix report: report/new-report.md    
     - Cost report: report/new-report.md
@@ -101,8 +105,8 @@ nav:
     - Metrics report: report/new-report.md
     - Roadmap report: report/new-report.md
     - New report: report/new-report.md
-#  - Event cards:
-#    - BTM module: index.md
+  - Event cards:
+    - BTM module: event/add-btm-module.md
   - Kudos cards:
     - Trusted Advisor: kudos/trusted-advisor.md
     - Over promise, Under deliver: kudos/over-promise.md 
@@ -111,6 +115,6 @@ nav:
     - Challenge: pitch/challenge.md
     - Recommendation: pitch/recommendation.md
     - Call to Action: pitch/call-to-action.md
-  - About: 
-    - Contact us: about/index.md
-    - Origin story: about/origin.md
+  - About: about/index.md
+#  - Hall of Fame: hall-of-fame/index.md
+  - Buy cards: buy/index.md

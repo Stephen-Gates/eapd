@@ -4,7 +4,7 @@ The **Enterprise Architecture Pitch Deck** game can be played by 2 to 4 players.
 
 ## Background 
 
-You are an Enterprise Architect. Your organisation is facing many challenges. You’ve been asked to prepare a deck of slides to explain the situation and recommend actions to solve a challenge. These slides are your Pitch Deck. 
+You are an Enterprise Architect. Your organisation is facing many challenges. You’ve been asked to prepare a deck of slides to explain the situation and recommend actions to solve a challenge. These slides are your pitch deck. 
 
 Other Enterprise Architects are also preparing pitch decks to solve challenges. 
 
@@ -20,31 +20,33 @@ You want to earn kudos by solving challenges. If you’re quick, there’s an op
 
 ## Objective
 
-Get the most kudos by completing challenges. 
+**Get the most kudos by completing challenges**. 
 
-Be careful, you lose kudos if you don’t complete a challenge. 
+Be careful, you'll lose kudos if you don’t complete a challenge. 
 
 --- 
 
 ## How to Play
 
-Before you start, review the different [card types](card-types.md). 
+The rules are explained on Rule cards (this card is a Rule card). 
 
-The game moves through these stages: 
+The game moves through four stages, each explained on its own card.
 
 1. [Set up](setup.md) 
 2. [Take turns](turns.md)
 3. [Pitch](pitch.md)
 4. [Earn kudos](kudos.md)
 
-Other cards explain each stage.
+Before setting up to play, read about each different [card type](card-types.md).
 
 ```
 
 
 
-Images of the Set up, Take turns, Make your pitch, Gather kudos cards
+Images of the Set up, Take turns, Pitch, Earn kudos cards
 
 
 
 ```
+
+~003~

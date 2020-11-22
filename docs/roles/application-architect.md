@@ -1,4 +1,4 @@
-# Application Architect
+# :fontawesome-solid-user:{: .role } Application Architect
 
 I'm a role
 
@@ -18,3 +18,5 @@ Easier to do Application things
 ### Weakness
 
 - Nervous -1 kudos for poor presentation a Executive meeting
+
+~011~ 

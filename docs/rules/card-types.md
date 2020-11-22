@@ -86,4 +86,11 @@ Images of Situation, Challenge, Recommendation, Call-to-Action cards
 
 ## The About card
 
-Learn our [origin story](about/), contact us or reuse and adapt these cards using a Creative Commons licence.
+Use the [About card](../about/index.md) to: 
+
+- Contact us
+- Earn real kudos for your innovative custom reports
+- Reuse or adapt these cards using a Creative Commons licence
+- Read the origin story
+
+~004~

@@ -1,4 +1,4 @@
-# Landscape report
+# :fontawesome-solid-chart-bar:{: .leanix } Landscape report
 
 >- What Applications support Business Capabilities?
 >- What Applications support Processes?
@@ -35,9 +35,7 @@ Views:
 
 - TIME
 
-
-
-
+~042~
 
  
 

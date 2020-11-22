@@ -36,7 +36,7 @@ If you have completed the challenge by collecting all the required Report cards:
 
 If you have completed the challenge by using a [New Report card](../report/new-report.md), you will have to [face the grilling](#face-the-grilling) from the Executive.
 
-## Face the grilling :fontawesome-solid-fire-alt:{: .grill }
+## Face the grilling :fontawesome-solid-fire-alt:{: .grilling }
 
 The Executive are uncertain about the new report you’ve used. They grill you with questions before accepting your call to action. They may ask a question relating to their area of interest, for example:  
 
@@ -49,3 +49,6 @@ The Executive are uncertain about the new report you’ve used. They grill you w
 If an Executive is satisfied with your answer, they give you kudos by placing their Executive card beside your Architect. An Executive may not withhold kudos without good reason.
 
 After the meeting, all Architects gather to review each others work and [earn kudos](kudos.md). 
+
+
+~007~

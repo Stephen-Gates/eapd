@@ -12,10 +12,15 @@
   --md-primary-fg-color--dark:  #033AAA;
 }
 
-/* Avoid page-break inside specific html elements: */
+/* Avoid page-break inside specific html elements. */
 
 @media print {
-  p, blockquote, ul, ol {page-break-before: avoid;}
+  p, blockquote, ul, ol {page-break-inside: avoid;}
+} 
+
+/* When printing, page break on the hr element. Hide the hr element on screen and when printed. */
+@media print {
+  hr {page-break-after: always;}
 }
 
 /* https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#using-icons */

@@ -28,7 +28,7 @@ The Board room where you pitch
 
 ## Event cards
 
-Shuffle the Event cards and place them face-down in a pile.[^1] 
+Shuffle the Event cards and place them face-down in a pile.
 
 ---
 
@@ -36,7 +36,7 @@ Shuffle the Event cards and place them face-down in a pile.[^1]
 
 1. Shuffle the Report cards and deal 5 cards face-down to each player.
 2. Players can look at their hand but don’t show it to the other players.
-3. Place the remaining Report cards face-down in a pile.[^2] 
+3. Place the remaining Report cards face-down in a pile.
 
 ## Challenge cards
 
@@ -54,5 +54,4 @@ Look at your Report cards to see which challenges may be easier to complete.
 1. The player with the most work experience goes first. 
 2. Turns progress clockwise.
 
-[^1]: Option: expose 1 or more Event cards. 
-[^2]: Option: expose 1 or more Report cards.
+~005~

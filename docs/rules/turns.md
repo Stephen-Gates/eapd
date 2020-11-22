@@ -54,3 +54,6 @@ To seek a new challenge:
 1. To pitch, you must have completed all your Challenge cards.
 2. Before you can make your pitch, each other player gets one last turn. 
 3. [Pitch](pitch.md)
+
+
+~006~
