@@ -1,7 +1,7 @@
-# Earn kudos :fontawesome-solid-star:{: .kudos }
+# Earn kudos 
 ## Winning the game
 
-The Enterprise Architect with the most kudos wins. 
+**The Enterprise Architect with the most kudos wins** :fontawesome-solid-star:{: .kudos }
 
 1. For each Challenge card you completed, add the kudos on the Challenge card to your score. 
 2. For each Challenge card you didn’t complete, subtract the kudos on the Challenge card from your score.
@@ -12,6 +12,6 @@ The Enterprise Architect with the most kudos wins.
 
 ## Earn real kudos
 
-If you designed an innovative new report, [share your idea with us](../about/index.md). If you survive our Executive grilling, we’ll send you a prize and add you to the Hall of Fame :fontawesome-solid-trophy:{: .kudos }
+If you designed an innovative custom report, [share your idea with us](../about/index.md). If you survive our grilling, we’ll send you a prize and add you to the Hall of Fame :fontawesome-solid-trophy:{: .kudos }
 
 ~008~

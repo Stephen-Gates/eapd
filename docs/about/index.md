@@ -2,7 +2,7 @@
 
 The **Enterprise Architecture Pitch Deck** is a set of cards Enterprise Architects can use for work or play. 
 
-Every card in the Enterprise Architecture Pitch Deck is page on **EAPitchDeck.io** - except one, **[Buy cards](../buy/)**.
+View or **[buy cards](../buy/)** on **EAPitchDeck.io**. 
 
 
 ## Contact us
@@ -22,7 +22,7 @@ Did you design an innovative custom report? Share your idea with us. If you surv
 
 - receive a **prize** 
 - join the **Hall of Fame** :fontawesome-solid-trophy:{: .kudos } 
-- and your report idea may even be made into an **exclusive Report card**  :fontawesome-solid-chart-bar:{: .leanix }
+- and your report idea may even be made into an **exclusive Report card** :fontawesome-solid-chart-bar:{: .leanix }
 
 ## License 
 
