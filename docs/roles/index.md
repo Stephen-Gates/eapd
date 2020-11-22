@@ -7,20 +7,20 @@ A Role card represents your character in the game. For most of the game you are 
 
 Your Enterprise Architect has a special skill based on knowledge and career experience. The Enterprise Architecture team includes: 
 
-- Application Architect
-- Business Architect
-- Data Architect
-- Process Architect
-- Technical Architect
+- [Application Architect](application-architect.md)
+- [Business Architect](business-architect.md)
+- [Data Architect](data-architect.md)
+- [Process Architect](process-architect.md)
+- [Technical Architect](technical-architect.md)
 
 ## Executive roles :fontawesome-solid-users:{: .role } 
 
 Your Executive has a laser focus on their accountabilities and favourite set of questions to grill recommendations put to them. The Executive team includes: 
 
-- Chief Executive Officer
-- Chief Financial Officer
-- Chief Information Officer
-- Chief Operating Officer
-- Chief Risk Officer
+- [Chief Executive Officer](ceo.md)
+- [Chief Financial Officer](cfo.md)
+- [Chief Information Officer](cio.md)
+- [Chief Operating Officer](coo.md)
+- [Chief Risk Officer](cro.md)
 
 ~010~ ~Not~ ~included~ ~in~ ~the~ ~deck~

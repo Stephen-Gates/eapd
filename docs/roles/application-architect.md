@@ -8,7 +8,7 @@ Image of face of architect
 
 ```
 
-### Super power 
+### Super skill 
 
 Easier to do Application things
 
