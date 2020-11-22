@@ -8,14 +8,14 @@ Players take turns until a player decides to pitch.
 
 On your turn, you may either: 
 
-1. [Add to your pitch deck](#add-to-your-pitch-deck)
-2. [Create a new report](#create-a-new-report)
-3. [Trigger an event](#trigger-an-event)
-4. [Use your special power](#use-your-special-power)
-5. [Seek a new challenge](#seek-a-new-challenge)
-6. [Decide to pitch](#decide-to-pitch)
+1. Add a report to your pitch deck
+2. Create a new report
+3. Trigger an event
+4. Use your special skill
+5. Seek a new challenge
+6. Decide to pitch
 
-## Add to your pitch deck :fontawesome-solid-chart-bar:{: .leanix }
+## Add a report to your pitch deck :fontawesome-solid-chart-bar:{: .leanix }
 
 1. Place a Report card face-up in front of you
 2. Pick up a Report card from the top of the Report card pile
@@ -32,12 +32,12 @@ On your turn, you may either:
 
 ---  
 
-## Use your special power :fontawesome-solid-bolt:{: .power  }
+## Use your special skill :fontawesome-solid-bolt:{: .power  }
 
-You can use your special power once.  
+You can use your special skill once.  
 
-1. Follow the special power instructions on your Architect card
-2. Rotate your Architect card by 90º to indicate your power is exhausted
+1. Follow the special skill instructions on your Architect card
+2. Rotate your Enterprise Architect card by 90º to indicate your skill has been used
 
 ## Seek a new challenge :fontawesome-solid-exclamation-triangle:{: .challenge }
 

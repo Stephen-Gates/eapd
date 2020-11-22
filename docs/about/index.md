@@ -1,4 +1,4 @@
-# :fontawesome-solid-book: About
+# <!-- add logo as fontawesome icon --> About
 
 The **Enterprise Architecture Pitch Deck** is a set of cards Enterprise Architects can use for work or play. 
 
@@ -7,7 +7,7 @@ Every card in the Enterprise Architecture Pitch Deck is page on **EAPitchDeck.io
 
 ## Contact us
 
-Follow **@EAPitchDeck** on :fontawesome-brands-twitter:{: .twitter } Twitter to:
+Follow **[@EAPitchDeck](https://twitter.com/EAPitchDeck)** on :fontawesome-brands-twitter:{: .twitter } Twitter to:
 
 - stay up-to-date with our latest news
 - ask questions
@@ -24,17 +24,19 @@ Did you design an innovative custom report? Share your idea with us. If you surv
 - join the **Hall of Fame** :fontawesome-solid-trophy:{: .kudos } 
 - and your report idea may even be made into an **exclusive Report card**  :fontawesome-solid-chart-bar:{: .leanix }
 
-## Inspired? 
+## License 
 
-Want to reuse or adapt this deck? You’re in luck.
+Want to reuse or adapt this deck? You’re in luck, the Enterprise Architecture Pitch Deck is openly licensed.
 
-> Enterprise Architecture Pitch Deck by Stephen Gates is licensed under CC BY‑NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0
+> **Enterprise Architecture Pitch Deck by Stephen Gates is licensed under CC BY‑NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0**
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only.
 
+### Attribution
+
 If you reuse this work, the preferred attribution is:
 
-> **Enterprise Architecture Pitch Deck** by **Stephen Gates** is licensed under **CC BY‑NC 4.0**
+> **[Enterprise Architecture Pitch Deck](https://EAPitchDeck.io)** by **[Stephen Gates](https://www.linkedin.com/in/sdgates/)** is licensed under **[CC BY‑NC 4.0](https://creativecommons.org/licenses/by-nc/4.0)**
 
 Please add the following links if you reuse this work on the Internet: 
 

@@ -47,7 +47,7 @@ The **[Play](play.md)** card teaches you how to play the game.
 The **Enterprise Architecture Pitch Deck** contains 108 cards. There are 8 [types of cards](card-types.md):
 
 - **Rule** cards for [work](work.md) and [play](play.md)
-- **Role** cards :fontawesome-solid-users:{: .role } - an Enterprise Architect role on one side, an Executive role on the other  
+- **Role** cards - an Enterprise Architect role :fontawesome-solid-user:{: .role } on one side, an Executive role :fontawesome-solid-users:{: .role } on the other  
 - **Challenge** cards :fontawesome-solid-exclamation-triangle:{: .challenge } 
 - **Report** cards :fontawesome-solid-chart-bar:{: .leanix }
 - **Event** cards :fontawesome-solid-calendar-times:{: .event  } 
@@ -60,7 +60,7 @@ The **Enterprise Architecture Pitch Deck** contains 108 cards. There are 8 [type
 
 
 
-Images of each type of card
+Photo of cards
 
 
 
