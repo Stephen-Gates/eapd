@@ -60,12 +60,16 @@ markdown_extensions:
   - toc:
       toc_depth: 2
 
+plugins:
+  - search
+  - section-index
+
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
   - Work: rules/work.md
   - Play: 
-    - Play: rules/play.md
+    - rules/play.md
     - Card types: rules/card-types.md
     - Set up: rules/setup.md
     - Take turns: rules/turns.md
@@ -73,7 +77,7 @@ nav:
     - Earn kudos: rules/kudos.md
 #    - Rule variations: rules/variations.md
   - Role cards:
-    - Role cards: roles/index.md
+    - roles/index.md
     - Application Architect: roles/application-architect.md
     - Business Architect: roles/business-architect.md
     - Data Architect: roles/data-architect.md
@@ -85,7 +89,7 @@ nav:
     - Chief Operating Officer: roles/coo.md
     - Chief Risk Officer: roles/cro.md
   - Challenge cards:
-    - Challenge cards: challenge/index.md
+    - challenge/index.md
     - Application rationalisation: challenge/application-rationalisation.md
     - Business transformation: challenge/business-transformation.md
     - Data governance: challenge/data-governance.md
@@ -96,7 +100,7 @@ nav:
     - Target Architecture: challenge/target-architecture.md
     - Risk management: challenge/risk-management.md
   - Report cards:
-    - Report cards: report/index.md
+    - report/index.md
     - Inventory report: report/inventory.md    
     - Factsheet map: report/factsheet-map.md
     - Landscape report: report/landscape.md
@@ -110,15 +114,15 @@ nav:
     - Roadmap report: report/new-report.md
     - New report: report/new-report.md
   - Event cards:
-    - Event cards: event/index.md
+    - event/index.md
     - BTM module: event/add-btm-module.md
     - TRM module: event/add-trm-module.md
   - Kudos cards:
-    - Kudos cards: kudos/index.md
+    - kudos/index.md
     - Trusted Advisor: kudos/trusted-advisor.md
     - Over promise, Under deliver: kudos/over-promise.md 
   - Pitch cards:
-    - Pitch cards: pitch/index.md
+    - pitch/index.md
     - Situation: pitch/situation.md
     - Challenge: pitch/challenge.md
     - Recommendation: pitch/recommendation.md

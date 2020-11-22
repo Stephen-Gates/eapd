@@ -28,7 +28,7 @@ As an Enterprise Architect, you often need to create a presentation that:
 - :fontawesome-solid-bullhorn:{: .call-to-action } issues a call to action
 
 
-The **[Work](work.md)** card provides tips on designing the perfect pitch.
+The **[Work](rules/work.md)** card provides tips on designing the perfect pitch.
 
 ## Play
 
@@ -40,13 +40,13 @@ Avoid unexpected events :fontawesome-solid-calendar-times:{: .event  } to be the
 - Deliver an innovative pitch to gain extra kudos but only after you’ve faced the grilling :fontawesome-solid-fire-alt:{: .grilling }
 - Be careful not to over-promise and under-deliver. <!-- :fontawesome-solid-minus-circle:{ .over-promise } -->
 
-The **[Play](play.md)** card teaches you how to play the game.
+The **[Play](rules/play.md)** card teaches you how to play the game.
 
 ## What’s inside? 
 
-The **Enterprise Architecture Pitch Deck** contains 108 cards. There are 8 [types of cards](card-types.md):
+The **Enterprise Architecture Pitch Deck** contains 108 cards. There are 8 [types of cards](rules/card-types.md):
 
-- **Rule** cards for [work](work.md) and [play](play.md)
+- **Rule** cards for [work](rules/work.md) and [play](rules/play.md)
 - **Role** cards - an Enterprise Architect role :fontawesome-solid-user:{: .role } on one side, an Executive role :fontawesome-solid-users:{: .role } on the other  
 - **Challenge** cards :fontawesome-solid-exclamation-triangle:{: .challenge } 
 - **Report** cards :fontawesome-solid-chart-bar:{: .leanix }

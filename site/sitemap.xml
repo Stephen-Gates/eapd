@@ -8,10 +8,6 @@
      <lastmod>2020-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/eapd/site/rules/play/</loc>
-     <lastmod>2020-11-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://stephen-gates.github.io/eapd/site/rules/card-types/</loc>
      <lastmod>2020-11-22</lastmod>
      <changefreq>daily</changefreq>
@@ -29,10 +25,6 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://stephen-gates.github.io/eapd/site/rules/kudos/</loc>
-     <lastmod>2020-11-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/eapd/site/roles/</loc>
      <lastmod>2020-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -161,6 +153,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://stephen-gates.github.io/eapd/site/event/add-btm-module/</loc>
+     <lastmod>2020-11-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/eapd/site/event/add-trm-module/</loc>
      <lastmod>2020-11-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
