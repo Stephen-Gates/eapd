@@ -40,7 +40,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/eapd
     - icon: fontawesome/brands/creative-commons
-      link: https://creativecommons.org/licenses/by-nc/4.0/
+      link: https://stephen-gates.github.io/eapd/site/about/#license
 
 # CSS overrides for color 
 extra_css:
